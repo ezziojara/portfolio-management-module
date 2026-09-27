@@ -46,3 +46,7 @@ portfolio.rebalance()
 ```
 
 To use real prices: `export ALPHAVANTAGE_API_KEY=...`.
+
+
+Link with LLM used:
+https://claude.ai/code/session_01PxxzTkTyb1ZvGCWKRxuKVW
